@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Xecute</string>
+    <string name="accessibility_service_description">Xecute Shield detects distracting apps and websites so you can stay focused. Blocking works offline on your device.</string>
+</resources>

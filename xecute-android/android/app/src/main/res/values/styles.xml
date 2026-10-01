@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+        <item name="android:statusBarColor">#0D0B14</item>
+        <item name="android:navigationBarColor">#0D0B14</item>
+        <!-- Light splash-friendly default; RN paints over this once JS mounts -->
+        <item name="android:windowBackground">#F7F0FF</item>
+        <item name="colorPrimary">#A855F7</item>
+    </style>
+
+    <style name="Theme.Xecute.Overlay" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowBackground">#0D0B14</item>
+        <item name="android:statusBarColor">#0D0B14</item>
+        <item name="android:navigationBarColor">#0D0B14</item>
+    </style>
+</resources>
